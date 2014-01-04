@@ -11,5 +11,5 @@
     fwrite( $fp, $unencodedData)or die("Error writing file.");
     fclose( $fp )or die("Error closing file.");
  
-    echo "http://erwanlent.com/uploads/$name.png";
+    echo "http://fotorift.com/uploads/$name.png";
 ?>
